@@ -211,3 +211,20 @@ footer{
     margin-top: 25px;
     margin-bottom: 40px;
 }
+
+/*-------------------------icon*/
+
+.three-reasons-icon{
+    font-size: 26px;
+    color: #9873bb;
+}
+
+.three-reason-heading{
+    margin-bottom: 15px;
+}
+
+/*---------------------------Personal Info section*/
+
+.bg-color-personal-info{
+    background-color:#f4f4f4 ;
+}
